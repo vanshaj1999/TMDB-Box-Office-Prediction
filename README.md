@@ -1,0 +1,6 @@
+# TMDB-Box-Office-Prediction
+TMDB Box Office Prediction
+1 INTRODUCTION
+The project TMDB Box Office Prediction, is a project on Kaggle as a part of Kaggle competition, in the world of where movies made an estimated revenue of $41.7 billion in 2018, the film industry is more popular than ever, this leads to a industry with various factors in it such as cast, crew, budget which all affects revenue in direct or indirect manner, as this industry being more than 60years old this has provided with a lot of data related to different types of movies from different countries and different languages.
+1.1 The Problem
+The purpose of this project is to predict the overall worldwide box office revenue by implementing advanced prediction models. Implementing advanced prediction models can helps in predicting the future revenue of the movie based on the factors provided which is the goal of this project this project includes 2 data bases one is training data set and other is test data set, the training data set has around 3000 entries with 23 columns and test data set has around 4397 entries with 22 columns the main difference between train and test is that train data set has revenue column in it whereas test data set doesn’t have a revenue column, in which with our advance predicting model we are predicting revenue for 4398 models in the test file
